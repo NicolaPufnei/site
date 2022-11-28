@@ -214,7 +214,6 @@ ul.b li{
 .wrapper {
     margin-bottom: 10%;
     font-size: 30px;
-    border: 1px solid blue;
     display: flex;
 }
 .div1 {
@@ -223,14 +222,11 @@ ul.b li{
     font-size:40px;
     left:150px;
     margin-left:10%;
-    border: 1px solid red;
 }
 .div2 {
     text-align:center;
     margin-left:40%;
-    border: 1px solid green;
 }
 .div3 {
     margin-left:5%;
-    border: 1px solid green;
 }
